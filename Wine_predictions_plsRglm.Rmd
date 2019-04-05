@@ -103,7 +103,7 @@ White wine quality is harder to predict than red wine quality; we can choose to 
 No variables are strongly correlated to the quality; the highest correlation is 0.4 and is between alcohol and the quality.
 So it is hard to make a strong inference of the quality of the wine based on the features present in the datasets.
 
-Collecting and defining more characteristics for the wine is essential if we want the predictions to be more accurate. Sensor scientists should look into adding and collecting more features to make their conclusions robust.
+Collecting and defining more characteristics for the wine is essential if we want the predictions to be more accurate. Sensory scientists should look into adding and collecting more features to make their conclusions robust.
 
 It is also possible to increase the number of experts and to take their average on the quality, which will give more objective values. 
 
